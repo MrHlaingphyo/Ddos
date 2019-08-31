@@ -58,19 +58,19 @@ def logo():
                     ##########################      #####
                     ###  ###################           \033[33m##\033[31m
                     ##    ###############
-                    \033[33m#\033[31m     ##  ##########   \033[33mMr \033[31m.\033[33m Bat\033[31m
+                    \033[33m#\033[31m     ##  ##########   \033[33mMr \033[31m.\033[33m HlaingPhyo\033[31m
                               ##   ####
                                     ###
                                  \033[33m    ##\033[31m
-          \033[33m-by \033[31mS\033[33mutariya \033[31mP\033[33marixit\033[31m        \033[33m#\033[31m
+          \033[33m-by \033[31mS\033[33mHlaing Phyo \033[31mP\033[33mThaKhinGyi\033[31m        \033[33m#\033[31m
 \n\t     \033[31m\033[1m[_\033[33mIP Flooder\033[31m_]
  \n\033[0m\033[1m
-\t \033[33m\033[1m[-] \033[0m\033[1mPlatform : \033[33m\033[1mAndroid Termux
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mMr.Bat
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSite     : \033[33mwww.bhai4you.blogspot.com
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[1mParixit \033[33m ]
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSec.Code : \033[33m\033[1m8h4i\033[0m
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mDate     : \033[33m\033[1m10-Dec-17\033[0m
+\t \033[33m\033[1m[-] \033[0m\033[1mCreator : \033[33m\033[1mHlaing Phyo Aung
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mMr.Hlaing Phyo
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSite     : \033[33mwww.hlaingphyoaung.weebly.com
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[1mmrhlaingphyo\033[33m ]
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSec.Code : \033[33m\033[1mMrWhi4E\033[0m
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mDate     : \033[33m\033[1m8\31/2019\033[0m
   """)
 
 
@@ -118,5 +118,5 @@ while 1:
         start_new_thread(connect, (n,))
     except:
         print "\n\t\t\033[33mYour Target Is Down!!!"
-    print "\033[32m<+> mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!!"
+    print "\033[32m<+> mr Hlaing !!!!phyo mr hlaing phyo!!!!"
     sleep(0.1)
