@@ -118,5 +118,5 @@ while 1:
         start_new_thread(connect, (n,))
     except:
         print "\n\t\t\033[33mYour Target Is Down!!!"
-    print "\033[32m<+> mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!!"
+    print "\033[32m<+> mrHlaing Phyo mr Hlaing phyo"
     sleep(0.1)
