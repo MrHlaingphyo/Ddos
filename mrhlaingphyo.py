@@ -63,7 +63,7 @@ def logo():
                                     ###
                                  \033[33m    ##\033[31m
           \033[33m-by \033[31mS\033[33mHlaing Phyo \033[31mP\033[33mThaKhinGyi\033[31m        \033[33m#\033[31m
-\n\t     \033[31m\033[1m[_\033[33mIP Flooder\033[31m_]
+\n\t     \033[31m\033[1m[_\033[33mWebsite Attack\033[31m_]
  \n\033[0m\033[1m
 \t \033[33m\033[1m[-] \033[0m\033[1mCreator : \033[33m\033[1mHlaing Phyo Aung
 \t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mMr.Hlaing Phyo
@@ -76,8 +76,8 @@ def logo():
 
 logo()
 
-print("\n\n\n\t\t\033[32m\033[1mMr.Bat")
-print("\033[33m\033[1m       UDP Port Flooder By \033[31m8h4i\033[0m")
+print("\n\n\n\t\t\033[32m\033[1mMr.hlaingphyo")
+print("\033[33m\033[1m       Power  By \033[31mMr Whi4E\033[0m")
 
 attack = raw_input("\n\n\n\033[1mWebsite or IP ==> \033[33m")
 
